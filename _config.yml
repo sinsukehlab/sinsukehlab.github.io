@@ -1,9 +1,6 @@
 theme: minima
 markdown: CommonMarkGhPages
 title: sinsukehlab's homepage
-author:
-  name: Shinsuke Higashiyama
-  github: sinsukehlab
 description: Shinsuke Higashiyama
 
 plugins:
