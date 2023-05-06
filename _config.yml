@@ -4,7 +4,7 @@ title: sinsukehlab's homepage
 author:
   name: sinsukehlab
   email: 94058150+sinsukehlab@users.noreply.github.com
-description: &copy; 2023 Shinsuke Higashiyama
+description: "\xA9 2023 Shinsuke Higashiyama"
 
 plugins:
   - jemoji
