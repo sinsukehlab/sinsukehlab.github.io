@@ -1,7 +1,10 @@
 theme: minima
 markdown: CommonMarkGhPages
 title: sinsukehlab's homepage
-description: Shinsuke Higashiyama
+author:
+  name: sinsukehlab
+  email: 94058150+sinsukehlab@users.noreply.github.com
+description: &copy; 2023 Shinsuke Higashiyama
 
 plugins:
   - jemoji
