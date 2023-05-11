@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Welcome
+title: Home
 ---
 
 Welcome to my homepage! :tada:
-This website is published as a GitHub Pages site with Jekyll. :page_with_curl:
+
+This website is published as a [GitHub Pages](https://pages.github.com/) site with [Jekyll](https://jekyllrb.com/). :page_with_curl:
