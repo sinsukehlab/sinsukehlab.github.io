@@ -1,5 +1,5 @@
 theme: minima
-markdown: CommonMarkGhPages
+markdown: kramdown
 
 title: sinsukehlab's homepage
 
