@@ -10,6 +10,7 @@ I'm majoring in biological sciences, especially in structural biology on RNA sil
 I'm also interested in computational sciences.
 
 ### Timeline
+
 | Year | Education |
 |------|-----------|
 | 2017&ndash;2019 | Natural Sciences II, College of Arts and Sciences, University of Tokyo |
